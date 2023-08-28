@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: Java and Spring universe.
 - 🎯 I’m currently focusing on: Spring Cloud, Microservice, Docker, Kubernate.
 - 🤔 I’m currently open for: A new job opportunity.
-- 📫 How to reach me: <a href="[https://aristi.dev](https://www.linkedin.com/in/rocha-nahuel/)">Linkedin</a>.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/rocha-nahuel">Linkedin</a>.
 - 😄 Fun fact: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).
 <br>
 

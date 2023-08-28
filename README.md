@@ -32,17 +32,17 @@ Featured Features:
 
 Technologies and Used Units:
 
--Spring Boot: Framework for Java application development.
--Spring Web: To create web APIs and handle HTTP requests.
--Spring Data JPA: To manage data persistence.
--MySQL Driver: Connection to MySQL database.
--Spring Validator: To validate incoming requests.
--Lombok: To reduce repetitive code and improve readability.
--Spring Security: For security, authentication and access control.
--Record Classes: Used to create DTOs for requests and responses.
--Enumerations: Used to represent roles and permissions.
--Custom exceptions: To handle and communicate specific errors.
-</p>
+- Spring Boot: Framework for Java application development.
+- Spring Web: To create web APIs and handle HTTP requests.
+- Spring Data JPA: To manage data persistence.
+- MySQL Driver: Connection to MySQL database.
+- Spring Validator: To validate incoming requests.
+- Lombok: To reduce repetitive code and improve readability.
+- Spring Security: For security, authentication and access control.
+- Record Classes: Used to create DTOs for requests and responses.
+- Enumerations: Used to represent roles and permissions.
+- Custom exceptions: To handle and communicate specific errors.
+  /p>
 </div>                                                                            
 </td>
 </div>                                                             

@@ -10,7 +10,6 @@
 - 🤔 I’m currently open for: A new job opportunity.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/rocha-nahuel" target="_blank">Linkedin</a> || my ✉️ rocha.nahuel@hotmail.com
 - 😄 Fun fact: I love football(⚽) and Codeing(💻).
-<br>
 
 ## <h2>Proyects</h2>
 <table>

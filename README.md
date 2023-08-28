@@ -12,7 +12,7 @@
 - 😄 Fun fact: I love football(⚽) and Codeing(💻).
 <br>
 
-## Proyectos *bombitas*
+## <h2>Proyects</h2>
 <table>
 <tr>
 <td width="100%">
@@ -22,7 +22,7 @@
 <p>
 The project consists of an ecommerce backend developed in Java using the Spring Boot framework. The system allows users to register, authenticate and perform various actions related to purchases and orders. Users can create new orders, add products to their orders and update shipping information. Administrators have access to the full functionality of the system. In addition, the system has complete stock control.
 
-- <H3>Featured Features:</H3>
+  <H3>Featured Features:</H3>
 
 - Registration and authentication of users with JWT.
 - Access control based on roles and permissions.

@@ -21,7 +21,8 @@
 <a href="https://github.com/NahuelRocha/ProyectEcommerce" target="_blank">E-commerce</a>
 <p>
 The project consists of an ecommerce backend developed in Java using the Spring Boot framework. The system allows users to register, authenticate and perform various actions related to purchases and orders. Users can create new orders, add products to their orders and update shipping information. Administrators have access to the full functionality of the system. In addition, the system has complete stock control.
-Featured Features:
+
+- <H3>Featured Features:</H3>
 
 - Registration and authentication of users with JWT.
 - Access control based on roles and permissions.
@@ -30,7 +31,7 @@ Featured Features:
 - Creation and updating of orders.
 - Authentication and full functionality for administrators.
 
-Technologies and Used Units:
+<H3>Technologies and Used Units:</H3>
 
 - Spring Boot: Framework for Java application development.
 - Spring Web: To create web APIs and handle HTTP requests.

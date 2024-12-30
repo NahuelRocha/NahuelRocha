@@ -17,7 +17,8 @@
 <tr>
 <td width="100%">
 <p>
-Java developer with 2 years of experience in the design and development of high performance backend systems using Spring Boot and modern architectures. Proactive, logical and problem oriented, I provide effective solutions applying best practices. I have facility to learn new technologies and adapt quickly to new environments.
+  Java developer with 2 years of experience in the design and development of high performance backend systems using Spring Boot and modern architectures. Proactive, logical and problem    oriented, I provide effective solutions applying best practices.
+  I have facility to learn new technologies and adapt quickly to new environments.
 
   <H3>TECHNICAL SKILLS:</H3>
 

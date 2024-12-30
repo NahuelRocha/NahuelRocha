@@ -31,7 +31,7 @@ Java developer with 2 years of experience in the design and development of high 
 - Metodologías: Agile, Scrum
 - DevOps: Jenkins, Github Actions, Linux, AWS.
 - Idioma: English (A2)
-/p>
+
 </div>                                                                            
 </td>
 </div>                                                             
